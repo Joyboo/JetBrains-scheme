@@ -1,27 +1,35 @@
-# goland-scheme
-自定义的goland主题，更完美的高亮
+# IDEA-scheme
+自定义的IDEA主题，更完美的高亮
 
-#### 找不到满意的goland主题，花了点时间自己配置了一个，有不好的地方请指出，虚心接受，一起完善。
+### 使用方法
+  直接下载后导入相应的icls或jar文件即可
+  
+### 语言支持 
+  `php` `golang` `java` `sql` `javascript` `html` `css` `xml` `sess` `less`
+  
+### IDE支持
+   `webstorm` `IntelliJ IDEA` `phpstorm` `goland`
 
-    直接下载后导入相应的icls或jar文件即可
+### 图片参考
 
-高清大图来了，Hold on ~
+`phpstorm`
 
-## No1.黑色系类似atom的配色 
-#### interface and struct
+![](./image/php.png)
+
+`webstorm`
+
+![](./image/js.png)
+
+`java`
+
+![](./image/java.png)
+
+`golang`
 
 ![](./image/01.png)
 
-#### function and branch
-
 ![](./image/02.png)
-
-### other
 
 ![](./image/03.png)
 
-## No2.白色系类似github的配色
-
-![](./image/github01.png)
-
-![](./image/github02.png)
+IntelliJ IDEA 中同时支持上述语言
