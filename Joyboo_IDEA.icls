@@ -1,10 +1,10 @@
 <scheme name="Joyboo_IDEA" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-10-02T16:12:53</property>
+    <property name="created">2018-10-07T01:04:20</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-02T16:13:02</property>
+    <property name="modified">2018-10-07T01:04:53</property>
     <property name="originalScheme">Joyboo_IDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -130,6 +130,11 @@
         <option name="FOREGROUND" value="c678dd" />
       </value>
     </option>
+    <option name="GO_COMMA">
+      <value>
+        <option name="FOREGROUND" value="f5f9f7" />
+      </value>
+    </option>
     <option name="GO_EXPORTED_FUNCTION">
       <value>
         <option name="FOREGROUND" value="54afee" />
@@ -142,7 +147,7 @@
     </option>
     <option name="GO_EXPORTED_INTERFACE_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="be5046" />
+        <option name="FOREGROUND" value="24c610" />
       </value>
     </option>
     <option name="GO_EXPORTED_STRUCT_REFERENCE">
@@ -188,7 +193,7 @@
     </option>
     <option name="GO_LOCAL_INTERFACE_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="be5046" />
+        <option name="FOREGROUND" value="24c610" />
       </value>
     </option>
     <option name="GO_LOCAL_STRUCT_REFERENCE">
@@ -223,7 +228,7 @@
     </option>
     <option name="GO_PACKAGE_EXPORTED_INTERFACE">
       <value>
-        <option name="FOREGROUND" value="be5046" />
+        <option name="FOREGROUND" value="24c610" />
       </value>
     </option>
     <option name="GO_PACKAGE_EXPORTED_STRUCT">
@@ -248,7 +253,7 @@
     </option>
     <option name="GO_PACKAGE_LOCAL_INTERFACE">
       <value>
-        <option name="FOREGROUND" value="be5046" />
+        <option name="FOREGROUND" value="24c610" />
       </value>
     </option>
     <option name="GO_PACKAGE_LOCAL_STRUCT">
@@ -269,6 +274,11 @@
     <option name="GO_SCOPE_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f17380" />
+      </value>
+    </option>
+    <option name="GO_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="f5f9f7" />
       </value>
     </option>
     <option name="GO_STRING">
