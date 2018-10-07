@@ -1,14 +1,14 @@
 <scheme name="Joyboo_IDEA" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-10-07T01:04:20</property>
+    <property name="created">2018-10-07T18:22:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-07T01:04:53</property>
+    <property name="modified">2018-10-07T18:22:04</property>
     <property name="originalScheme">Joyboo_IDEA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro Semibold" />
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -82,6 +82,11 @@
     <option name="CSS.PROPERTY_VALUE">
       <value>
         <option name="FOREGROUND" value="f0f0f0" />
+      </value>
+    </option>
+    <option name="CSS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="c5e9e7" />
       </value>
     </option>
     <option name="CSS.STRING">
@@ -292,6 +297,27 @@
       </value>
     </option>
     <option name="GO_STRUCT_LOCAL_MEMBER">
+      <value>
+        <option name="FOREGROUND" value="f17380" />
+      </value>
+    </option>
+    <option name="GO_TEMPLATE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="f17380" />
+      </value>
+    </option>
+    <option name="GO_TEMPLATE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_TEMPLATE_STRING">
+      <value>
+        <option name="FOREGROUND" value="4a3ca" />
+      </value>
+    </option>
+    <option name="GO_TEMPLATE_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f17380" />
       </value>
