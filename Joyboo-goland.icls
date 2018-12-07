@@ -1,0 +1,382 @@
+<scheme name="Darcula copy1" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-12-07T15:33:55</property>
+    <property name="ide">GoLand</property>
+    <property name="ideVersion">2018.3.0.0</property>
+    <property name="modified">2018-12-07T15:34:30</property>
+    <property name="originalScheme">Darcula copy1</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="CSS.BAD_CHARACTER">
+      <value>
+        <option name="BACKGROUND" value="ffcccc" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="93c763" />
+      </value>
+    </option>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="ff9999" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="a082bd" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="678cb1" />
+      </value>
+    </option>
+    <option name="CSS.STRING">
+      <value>
+        <option name="FOREGROUND" value="f0f0f0" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="d0d2b5" />
+      </value>
+    </option>
+    <option name="CSS.URL">
+      <value>
+        <option name="FOREGROUND" value="f0f0f0" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="56b6c1" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="54afee" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="56b6c1" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_INTERFACE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="be5046" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_STRUCT_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="81c279" />
+      </value>
+    </option>
+    <option name="GO_FUNCTION_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e47e4e" />
+      </value>
+    </option>
+    <option name="GO_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_LABEL">
+      <value>
+        <option name="FOREGROUND" value="81c279" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="d09a66" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="54afee" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="56b6c1" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_INTERFACE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="be5046" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_STRUCT_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="81c279" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f17380" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_VARIABLE_CALL">
+      <value>
+        <option name="FOREGROUND" value="56b6c1" />
+      </value>
+    </option>
+    <option name="GO_METHOD_RECEIVER">
+      <value>
+        <option name="FOREGROUND" value="ca6b48" />
+      </value>
+    </option>
+    <option name="GO_OPERATOR">
+      <value>
+        <option name="FOREGROUND" value="e1e8e3" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE">
+      <value>
+        <option name="FOREGROUND" value="56b6c1" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="d09a66" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="be5046" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_STRUCT">
+      <value>
+        <option name="FOREGROUND" value="81c279" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f17380" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_VARIABLE_CALL">
+      <value>
+        <option name="FOREGROUND" value="56b6c1" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="d09a66" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="be5046" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_STRUCT">
+      <value>
+        <option name="FOREGROUND" value="81c279" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f17380" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_VARIABLE_CALL">
+      <value>
+        <option name="FOREGROUND" value="56b6c1" />
+      </value>
+    </option>
+    <option name="GO_SCOPE_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f17380" />
+      </value>
+    </option>
+    <option name="GO_STRING">
+      <value>
+        <option name="FOREGROUND" value="4a3ca" />
+      </value>
+    </option>
+    <option name="GO_STRUCT_EXPORTED_MEMBER">
+      <value>
+        <option name="FOREGROUND" value="f17380" />
+      </value>
+    </option>
+    <option name="GO_STRUCT_EXPORTED_MEMBER_CALL">
+      <value>
+        <option name="FOREGROUND" value="56b6c1" />
+      </value>
+    </option>
+    <option name="GO_STRUCT_LOCAL_MEMBER">
+      <value>
+        <option name="FOREGROUND" value="f17380" />
+      </value>
+    </option>
+    <option name="GO_STRUCT_LOCAL_MEMBER_CALL">
+      <value>
+        <option name="FOREGROUND" value="56b6c1" />
+      </value>
+    </option>
+    <option name="GO_TEMPLATE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="f17380" />
+      </value>
+    </option>
+    <option name="GO_TEMPLATE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_TEMPLATE_STRING">
+      <value>
+        <option name="FOREGROUND" value="4a3ca" />
+      </value>
+    </option>
+    <option name="GO_TEMPLATE_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f17380" />
+      </value>
+    </option>
+    <option name="GO_TYPE_SPECIFICATION">
+      <value>
+        <option name="FOREGROUND" value="f17380" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="999999" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="a6de78" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value>
+        <option name="FOREGROUND" value="e0e2e4" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="c079ed" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="cdced3" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="668cb0" />
+      </value>
+    </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="ERROR_STRIPE_COLOR" value="756d56" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.DOT">
+      <value>
+        <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="54afee" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="17b1cf" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="2f9ec4" />
+      </value>
+    </option>
+    <option name="JS.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+        <option name="BACKGROUND" value="660000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="aa57cc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b2bec6" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="a1b92f" />
+      </value>
+    </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="1ad31d" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="9acf70" />
+      </value>
+    </option>
+    <option name="SQL_COLUMN">
+      <value>
+        <option name="FOREGROUND" value="668cb0" />
+      </value>
+    </option>
+    <option name="SQL_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="93c763" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="be9117" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
