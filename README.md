@@ -1,5 +1,3 @@
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-
 # JetBrains-scheme
 自定义的JetBrains主题，更完美的高亮，喜欢的朋友可以给个星星star支持下，谢谢~~
 
