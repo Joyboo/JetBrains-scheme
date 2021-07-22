@@ -1,8 +1,19 @@
 # JetBrains-scheme
-自定义的JetBrains主题，更完美的高亮，喜欢的朋友可以给个星星star支持下，谢谢~~
+自定义的JetBrains主题，更完美的高亮，如果喜欢，可以给个 **star** 支持下，Thinks ~
 
 ### 使用方法
-  直接下载后导入相应的icls或jar文件即可
+
+- 方式一： 导入settings.zip
+
+![](./image/settings.png)
+    
+- 方式二: 导入相应的icls或jar文件
+
+
+    以phpstorm为例，File->Settings->Editor->Color Scheme->import 中选择文件导入即可， Joyboo-phpstorm.icls（或Joyboo-phpstorm.jar）
+    
+![](./image/set_import.png)
+    
   
 ### 语言支持 
   `php` `golang` `java` `sql` `javascript` `html` `css` `xml` `sess` `less`
